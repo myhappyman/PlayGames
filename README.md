@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GamePlays Project!
 
-## Getting Started
+🚀 소소한 미니게임을 작성하는 프로젝트입니다.
 
-First, run the development server:
+## 프로젝트 목표
+1. 프로젝트를 작성하면서 React & Typescript & Next에 대하여 반복학습을 진행합니다.
+2. Git을 CommitConvention에 맞춰서 작성하도록 노력합니다.
+3. 새로운 기술, 기법을 적용해봅니다.
+4. CSR, SSR을 환경에 맞춰 사용합니다.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<hr/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Create Proejct
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 프로젝트 생성 명령어
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+`npx create-next-app@latest --ts`
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+해당 명령어를 사용하면 프로젝트 명부터 추가할 라이브러리나 설정들을 물어보고 생성을 시작한다.
